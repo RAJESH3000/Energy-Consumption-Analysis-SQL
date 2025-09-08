@@ -15,7 +15,7 @@ Files
 
 Technologies Used
 - SQL (Joins, CTEs, Window Functions, Aggregations)
-- MySQL / MariaDB
+- MySQL
 
 Key Insights
 - Energy and economic growth are tightly linked.
